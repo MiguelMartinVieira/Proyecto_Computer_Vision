@@ -99,4 +99,5 @@ Proyecto/
 
 ## Autor
 
-Proyecto desarrollado para la asignatura de Computer Vision - ICAI por Miguel Martín Vieira y Pablo Güell
+Proyecto desarrollado para la asignatura de Computer Vision - ICAI por Miguel Martín Vieira y Pablo Güell con la ayuda de la IA - Google Antigravity
+
